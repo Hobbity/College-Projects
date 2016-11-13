@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+ 
+  <title>Book Buddy</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+ 
+
+<link rel="stylesheet" type="text/css" href="demo.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="demo.js"></script>
+
+
+<style type="text/css">
+  body{
+    background: url(header.jpg);
+    background-attachment: fixed;
+  }
+</style>
+
+</head>
+<body>
+<nav class="navbar navbar-inverse ">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <div class="navbar-brand" href="#" >BookBuddy</div>
+    </div>
+    <ul class="nav navbar-nav">
+    <!--  <li ><a href="#">Home</a></li>
+      <li class="active"><a href="#">About Us</a></li>
+    <!- -  <li ><a href="#">Your Bookshelf</a></li> -->
+      
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li><a href="register.php"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+      <li><a href="login.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+    </ul>
+  </div>
+</nav>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+
+   
+
+    
+    <!-- Custom CSS -->
+    <link href="css/2-col-portfolio.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <!-- Page Header -->
+        <div class="row">
+            <div class="col-lg-12 " style="background:none;font:40px;">
+                <h1 class="page-header" style="color:black;">Book Buddy
+                <!--    <small>All Books</small> -->
+                </h1>
+            </div>
+        </div>
+
+        <div class="row">
+            <h2 style="color:black;text-align:center;">A book lover's abode...</h2>
+            <h4 style="color:black;text-align:center;">Explore a vast collection of books to exchange with fellow bookworms at BookBuddy!</h4>
+        </div>
+        <!--
+        <div class="field-wrap">
+        <input type="text" id="search" required autocomplete="off"/ placeholder="Search" >
+            </div>
+        <!- - /.row -->
+
+        <!-- Books Row -->
+        <div class="row" style="color:black;">
+            <div class="col-md-6 portfolio-item" align="center">
+            <div href="#" align="center">
+                    <img class="img-responsive" src="http://www.eurocrime.co.uk/reviews/BHSquare.jpg" alt="" style="max-height:350px;">
+                </div>
+                
+                <h3>
+                    <div href="#" style=""> Bleeding Heart Square </div></h3>
+                <p>     <h4>Andrew Taylor (Penguin)<br></h4>
+1934, London. Into the decaying cul-de-sac of Bleeding Heart Square steps aristocratic Lydia Langstone fleeing an abusive marriage. However, unknown to Lydia, a dark mystery haunts the place.</p>
+                
+            </div>
+            <div class="col-md-6 portfolio-item" align="center">
+               <div href="#" align="center">
+                    <img class="img-responsive"  style="max-height:350px;" src="http://thumbs2.picclick.com/d/l400/pict/381697638489_/A-Delicate-Truth-le-Carre-John-Paperback.jpg" alt="">
+                </div>
+                <h3>
+                    <div href="#"> A Delicate Truth </div>
+                </h3>
+                <p><h4> John le Carre (Penguin)<br></h4>
+                A counter-terror operation, codenamed Wildlife, is being mounted in Britain’s most precious colony, Gibraltar. Its purpose: to capture a high-value jihadist arms-buyer. Its authors: an ambitious Foreign Office Minister, and a private defence contractor who is also his close friend.</p>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Books Row -->
+        <div class="row" style="color:black;">
+            <div class="col-md-6 portfolio-item" align="center">
+                <div href="#" align="center">
+                    <img class="img-responsive" style="max-height:350px;" src="https://images-na.ssl-images-amazon.com/images/I/51VBl49W8qL._SX320_BO1,204,203,200_.jpg" alt="">
+                </div>
+                <h3>
+                    <div href="#">An Officer and a Spy</div>
+                </h3>
+                <p> <h4>Robert Harris (Arrow)<br></h4>
+Paris, 1895: an army officer, Georges Picquart, watches a convicted spy, Alfred Dreyfus, being publicly humiliated in front of a baying crowd. Dreyfus is exiled for life to Devil’s Island; Picquart is promoted to run the intelligence unit that tracked him down.</p>
+            </div>
+
+            <div class="col-md-6 portfolio-item" align="center">
+                <div href="#">
+                    <img class="img-responsive" style="max-height:350px;" src="https://images-na.ssl-images-amazon.com/images/I/51rSemjVuzL._SX319_BO1,204,203,200_.jpg" alt="">
+                </div>
+                <h3>
+                    <div href="#">Gone</div>
+                </h3>
+                <p> <h4>Mo Hayder (Bantam)<br></h4>
+Night is falling as murder detective Jack Caffrey arrives to interview the distraught victim of a car-jacking. What he hears horrifies him. The car was taken by force, and on the back seat was a passenger. An eleven-year-old girl. Who is still missing. Before long the jacker starts to communicate with the police.
+
+</p>
+               
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Books Row -->
+        <div class="row" style="color:black;">
+            <div class="col-md-6 portfolio-item" align="center">
+                <div href="#">
+                    <img class="img-responsive" style="max-height:350px;" src="https://upload.wikimedia.org/wikipedia/en/7/7e/Gone_Girl_(Flynn_novel).jpg" alt="">
+                </div>
+                <h3>
+                    <div href="#"> Gone Girl </div>
+                    </h3>
+                    <p> <h4>Gillian Flynn (Phoenix)<br></h4>
+Nick Dunne’s wife Amy suddenly disappears on the morning of their 5th anniversary. The police immediately suspect Nick. Amy’s friends reveal that she was afraid of him. He swears it isn’t true. A police examination of his computer shows strange searches. He says they aren’t his. Then there are the persistent calls on his mobile phone.
+
+</p>
+                
+            </div>
+            <div class="col-md-6 portfolio-item" align="center">
+                <div href="#">
+                    <img class="img-responsive" style="max-height:350px;" src="http://images.gr-assets.com/books/1358353512l/9736930.jpg" alt="">
+                </div>
+                <h3>
+                    <div href="#">Before I Go To Sleep </div>
+                </h3>
+                <p> <h4>S. J. Watson (Black Swan)<br></h4>
+                Memories define us. So what if you lost yours every time you went to sleep? Your name, your identity, your past, even the people you love – all forgotten overnight. And the one person you trust may only be telling you half the story. Welcome to Christine’s life.
+
+</p>
+            </div>
+        </div>
+        <!-- /.row -->
+
+
+        <!-- Pagination -->
+        <!-- <div class="row text-center">
+            <div class="col-lg-12">
+                <ul class="pagination">
+                    <li>
+                        <a href="#">&laquo;</a>
+                    </li>
+                    <li class="active">
+                        <a href="#">1</a>
+                    </li>
+                    <li>
+                        <a href="#">2</a>
+                    </li>
+                    <li>
+                        <a href="#">3</a>
+                    </li>
+                    <li>
+                        <a href="#">4</a>
+                    </li>
+                    <li>
+                        <a href="#">5</a>
+                    </li>
+                    <li>
+                        <a href="#">&raquo;</a>
+                    </li>
+                </ul>
+            </div>
+        </div> -->
+        <!-- /.row -->
+
+
+        <!-- Footer -->
+            <div class="row">
+                <div class="col-lg-12">
+                    
+                </div>
+            </div>
+            <!-- /.row -->
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

@@ -1,1 +1,4 @@
-# TE-B-WT-Projects
+Mumbai University
+Computer Engineering
+TE/BE Projects
+Will keep updating...
